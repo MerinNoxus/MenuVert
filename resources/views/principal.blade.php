@@ -8,5 +8,4 @@ Menu Vert
 <x-carrusel />
 
 <x-selectMeal />
-
 @endsection

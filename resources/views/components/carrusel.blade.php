@@ -10,7 +10,8 @@
                 <h2 class="carrusel__h2">Treat Yourself</h2>
                 <p class="carrusel__p">Another free template by Colorlib. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                 <button class="carrusel__button">Explore Now</button>
-                <x-iconsSocial />
+                <div class="carrusel__icons"> <x-iconsSocial /></div>
+               
             </div>
             <div class="carrusel__elemento">
                 <img  class="carrusel__img" src="{{asset('img/slidebar/pexels-christel-jensen-628776.jpg')}}" alt="comida en restaurante">

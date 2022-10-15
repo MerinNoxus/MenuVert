@@ -16,15 +16,15 @@
     <header>
         <x-nav />
     </header>
-    <main>
+  
         @yield('contenido')
-       
-    </main>
+      
+   
     <footer >
         <x-footer />
     </footer>
     <script src="https://cdn.jsdelivr.net/npm/glider-js@1.7.3/glider.min.js"></script>
-   
+ 
 </body>
 
 </html>
